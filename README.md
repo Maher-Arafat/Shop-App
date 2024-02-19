@@ -6,11 +6,28 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+This project has been updated from the last version using clean architecture and cubits as a state management
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Packages used on this app
+go_router => for routing and passing data
+get_it => for dependency injection
+shared_preferences => for local storage
+google_fonts => to use fonts from google
+flutter_bloc => to use bloc
+font_awesome_flutter => give a lot of fonts to use it
+dio => to manage requests 
+google_sign_in => for authentication with google and sign_in
+firebase_core => to make firebase available to use
+firebase_auth => for authentication with Firebase
+dartz => to manage errors from sever ( error handler )
+cloud_firestore => to use Firebase storage to store data
+cached_network_image => to give you more handling image network caching
+google_nav_bar => to use a pretty navigation bar 
+conditional_builder_null_safety => make managing widgets according to conditions
+shimmer => when the data comes from the server it will be displayed till the response 
+hive & hive_flutter => to save data in local storage
+flutter_toast => showing toast
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
