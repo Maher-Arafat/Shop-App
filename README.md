@@ -21,7 +21,7 @@ google_fonts => to use fonts from google
 flutter_bloc => to use bloc
 
 font_awesome_flutter => give a lot of fonts to use it
-## dio => to manage requests 
+dio => to manage requests 
 
 google_sign_in => for authentication with google and sign_in
 
