@@ -46,5 +46,9 @@ hive & hive_flutter => to save data in local storage
 flutter_toast => showing toast
 
 
+![cart_screen](https://github.com/Maher-Arafat/Shop-App/assets/58884227/b22ad2b5-d49c-451e-b4b8-48f437769ecf)
+![home_screen](https://github.com/Maher-Arafat/Shop-App/assets/58884227/0bb74412-03ff-4629-8064-eeac8dba76e3)
+![details_product](https://github.com/Maher-Arafat/Shop-App/assets/58884227/d7a26c8f-a565-4a7a-b0a8-d59e93a667c5)
+![splash_screen](https://github.com/Maher-Arafat/Shop-App/assets/58884227/e7f46910-431f-452a-95c9-b1d208c5afdc)
 
 
